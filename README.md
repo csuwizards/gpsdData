@@ -1,5 +1,5 @@
 # gpsdData
-![sample-run-piGPS](/images/UARTandLinuxDebug.MOV)
+![UARTandLinuxDebug](/images/UARTandLinuxDebug.MOV)
 Experiments with rPi0, python, ulitmate GPS board, etc
 
 Started with just regular Python code, added flask, tried quart, added tests/experiments, and finally async,
