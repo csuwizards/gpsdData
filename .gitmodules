@@ -1,0 +1,3 @@
+[submodule "flaskGPStest"]
+	path = flaskGPStest
+	url = https://github.com/jpsthecelt/flaskGPStest.git
