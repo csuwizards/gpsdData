@@ -1,3 +1,12 @@
 [submodule "flaskGPStest"]
 	path = flaskGPStest
 	url = https://github.com/jpsthecelt/flaskGPStest.git
+[submodule "flaskExp"]
+	path = flaskExp
+	url = https://github.com/jpsthecelt/flaskExp.git
+[submodule "asgpstest"]
+	path = asgpstest
+	url = https://github.com/jpsthecelt/asgpstest.git
+[submodule "asyncTests"]
+	path = asyncTests
+	url = https://github.com/jpsthecelt/asyncTests.git
