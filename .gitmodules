@@ -10,3 +10,6 @@
 [submodule "asyncTests"]
 	path = asyncTests
 	url = https://github.com/jpsthecelt/asyncTests.git
+[submodule "react-bootstrap-demo"]
+	path = react-bootstrap-demo
+	url = https://github.com/jpsthecelt/react-bootstrap-demo.git
